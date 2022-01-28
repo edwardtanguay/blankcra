@@ -6,6 +6,8 @@ This is a minimal starter app to create quick React sites  instead of using *cre
 - SASS installed
 - faster start up time
 
+Created: **2022-01-24** - *update in the future when/if npm install shows any critical vulnerabilities*
+
 ## How to use
 
 - clone

@@ -6,7 +6,7 @@ This is a minimal starter app to create quick React sites  instead of using *cre
 - SASS installed
 - faster start up time
 
-Created: **2022-01-24** - update in the future when/if `npm i` shows any critical vulnerabilities
+Updated: **2022-01-24** - if `npm i` shows any critical vulnerabilities in the future, update again with a fresh `npx create-react-app`
 
 ## How to use
 
